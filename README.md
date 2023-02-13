@@ -17,5 +17,3 @@
 Результаты:
 1. [Знакомства с данными](https://github.com/f999145/SF_PROJECT-2/blob/468e07781313c418e62ff33f3d699c24479f4f07/project_2_info.ipynb)
 2. [Ноутбук с выполненым заданием и выводами](https://github.com/f999145/SF_PROJECT-2/blob/468e07781313c418e62ff33f3d699c24479f4f07/Project_2.ipynb)
-
-ы
